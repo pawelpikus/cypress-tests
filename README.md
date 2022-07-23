@@ -1,6 +1,4 @@
-# E2E testing example with Cypress - search for a flight at expedia.com
-
-https://user-images.githubusercontent.com/12381471/180616008-3e967033-de65-45d1-967d-b00e5a4ba5ac.mp4
+# E2E testing example with Cypress - search for a flight at expedia.com<hr>
 
 This is an example test suite on checking available flights
 
@@ -11,7 +9,11 @@ This is an example test suite on checking available flights
 
 The project uses `Node v18.4.0`.
 
-## 💿 Installation
+## Video<hr>
+
+https://user-images.githubusercontent.com/12381471/180616008-3e967033-de65-45d1-967d-b00e5a4ba5ac.mp4
+
+## 💿 Installation<hr>
 
 1. Make sure you have `Node` installed.
 2. In your Terminal, got to the folder from where you want to run your tests and `git clone` this repository.
@@ -21,7 +23,7 @@ The project uses `Node v18.4.0`.
 
 You are ready to run the tests.
 
-## ✅ Running tests
+## ✅ Running tests<hr>
 
 There are two script commands that can initiate the test run:
 
