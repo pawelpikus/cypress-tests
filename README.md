@@ -1,6 +1,6 @@
 # E2E testing example with Cypress - search for a flight at expedia.com
 
-![Test video](https://user-images.githubusercontent.com/12381471/180616008-3e967033-de65-45d1-967d-b00e5a4ba5ac.mp4)
+https://user-images.githubusercontent.com/12381471/180616008-3e967033-de65-45d1-967d-b00e5a4ba5ac.mp4
 
 This is an example test suite on checking available flights
 
