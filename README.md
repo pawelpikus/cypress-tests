@@ -7,15 +7,13 @@ This is an example test suite on checking available flights
 3. including the nearest weekend
 4. going to the cheapest flight
 
-The project uses `Node v18.4.0`.
-
 ## Video
 
 https://user-images.githubusercontent.com/12381471/180616008-3e967033-de65-45d1-967d-b00e5a4ba5ac.mp4
 
 ## 💿 Installation
 
-1. Make sure you have `Node` installed.
+1. Make sure you have `Node` installed. The project uses `Node v18.4.0`.
 2. In your Terminal, got to the folder from where you want to run your tests and `git clone` this repository.
 3. `cd` to the project folder and install the deps:
 
