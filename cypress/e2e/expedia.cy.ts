@@ -1,7 +1,7 @@
 import getNextFriday from "../../lib/getNextFriday";
 
 describe("Search flights", () => {
-  it.only("should find the cheapest flight from Poland to Dubai for 2 adults and 1 child for the nearest weekend", () => {
+  it("should select the cheapest flight from the list of flights from Poland to Dubai for 2 adults and 1 child for the nearest weekend", () => {
     const { day, month, year } = getNextFriday(new Date());
 
     // ignore errors comping from the app
