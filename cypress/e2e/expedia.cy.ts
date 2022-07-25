@@ -4,7 +4,7 @@ describe("Search flights", () => {
   it("should select the cheapest flight from the list of flights from Poland to Dubai for 2 adults and 1 child for the nearest weekend", () => {
     const { day, month, year } = getNextFriday(new Date());
 
-    // ignore errors comping from the app
+    // ignore errors coming from the app
     cy.on("uncaught:exception", (e) => {
       if (
         e.message.includes(
